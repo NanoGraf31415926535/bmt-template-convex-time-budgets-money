@@ -1,0 +1,62 @@
+:root {
+  --display-slider-thumb: "none";
+  --slider-thumb-opacity: 0;
+  --calendar-count-per-row: 2;
+}
+
+.double-range-wrap input[type="range"]::-webkit-slider-thumb {
+  cursor: pointer;
+}
+
+.double-range-wrap input[type="range"]::-moz-range-thumb {
+  cursor: pointer;
+}
+
+.inactive input[type="range"]::-moz-range-thumb {
+  opacity: 0;
+}
+
+.inactive input[type="range"]::-webkit-slider-thumb {
+  opacity: 0;
+}
+
+/*Pulse Animation Source: https://bbbootstrap.com/snippets/bootstrap-pulse-animation-css-effect-78552205 */
+.inactive input[type="range"] {
+  background-color: #eef0f2;
+  border-radius: 10px;
+  position: relative;
+  animation: pulse-animation 3s linear infinite;
+}
+
+.activateOverlay{
+  background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.6) 10%, rgba(255,255,255,.6) 90%, rgba(255,255,255,0) 100%);
+}
+
+@-moz-document url-prefix() {
+  .mozSlider {
+    height: 9px;
+  }
+}
+
+@keyframes pulse-animation {
+  0% {
+    box-shadow:
+      0 0 0 0 rgb(0, 117, 255, 0.8),
+      0 0 0 0 rgb(0, 117, 255, 0.8);
+  }
+  40% {
+    box-shadow:
+      0 0 0 5px rgb(0, 117, 255, 0),
+      0 0 0 0 rgb(0, 117, 255, 0.8);
+  }
+  80% {
+    box-shadow:
+      0 0 0 5px rgb(0, 117, 255, 0),
+      0 0 0 5px rgb(0, 117, 255, 0);
+  }
+  100% {
+    box-shadow:
+      0 0 0 0 rgb(0, 117, 255, 0),
+      0 0 0 5px rgb(0, 117, 255, 0);
+  }
+}

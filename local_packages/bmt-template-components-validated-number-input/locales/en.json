@@ -1,0 +1,10 @@
+{
+  "default-value-error-message-minmax": "The number must be between {{min}} and {{max}}.",
+  "default-value-error-message-min": "The number must be at least {{min}}.",
+  "default-value-error-message-max": "The number cannot be greater than {{max}}.",
+  "default-required-error-message": "Please answer this question.",
+  "default-placeholder": "Your answer.",
+
+  "default-additional-information-title": "Hint:",
+  "default-solution-information-title": "Solution:"
+}

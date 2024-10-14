@@ -1,0 +1,5 @@
+{
+  "default-pattern-error-message": "Your answer does not have the required format.",
+  "default-required-error-message": "Please answer this question.",
+  "default-placeholder": "Your answer."
+}

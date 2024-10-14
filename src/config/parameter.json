@@ -1,0 +1,45 @@
+{
+
+  "first-page-test1": {
+    "type": "string",
+    "value": "hello"
+  },
+  "test2": {
+    "type": "boolean",
+    "value": true
+  },
+  "second-page-test1": {
+    "type": "number",
+    "min": 2,
+    "max": 11,
+    "value": 11
+  },
+
+
+
+  "exchangeRates": {
+    "type": "list",
+    "value": [0.95, 1, 1.11, 1.25, 1.43]
+  },
+
+  "dates": {
+    "type": "list",
+    "value": [
+      [0, "weeks"],
+      [1, "weeks"],
+      [2, "weeks"]
+    ]
+  },
+  "budget": {
+    "type": "number",
+    "value": 10
+  },
+  "numSteps": {
+    "type": "number",
+    "value": 10
+  },
+  "basePayoff": {
+    "type": "number",
+    "value": 0
+  }
+}

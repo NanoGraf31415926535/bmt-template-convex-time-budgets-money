@@ -1,0 +1,15 @@
+{
+  "name": "bmt-template-components-text",
+  "version": "1.0.0",
+  "description": "BMT Template Component: Text",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "react": "^18.2.0",
+    "sanitize-html": "^2.13.0"
+  }
+}

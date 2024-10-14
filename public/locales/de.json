@@ -1,0 +1,97 @@
+{
+  "forwords-title-1": "Das ist mein Beipsiel",
+  "forwords-title-2": "Das ist mein Beipsiel(Erweitert)",
+
+  "forwords-text-1": "Dies ist mein Beispiel, das ich gemacht habe, um meine Fähigkeiten zu trainieren, um die Arbeit zu machen, für die ich mich beworben habe. Betrachten Sie es nicht als meine gesamte Arbeit, denn ich habe nur die Anweisungen von David Poensgen befolgt, um den ganzen Banch der Arbeit, die für mich vorgefertigt wurde, neu zu erstellen.",
+  "forwords-text-2": "Mir wurden zwei Hauptaufgaben gestellt, eine am Anfang und eine gegen Ende. Unter jeder Aufgabe gibt es eine bestimmte Richtlinie, die es zu befolgen gilt: Wenn diese Aufgabe beispielsweise gemäß den Anweisungen abgeschlossen wurde, würden Sie sehen, dass das Ergebnis mit der ursprünglichen Vorlage von David Poensgen <b>und</b> den zur Ausrichtung vorgenommenen Anpassungen übereinstimmt mit dem Endergebnis. Zu diesem Zeitpunkt würde die neu erstellte Arbeit die Anweisungen zu Beginn und die erwartete Fertigstellung am Ende widerspiegeln.\n\n Wenn ich meinen Ansatz an die ursprünglichen Anweisungen anpasse, wird sich die resultierende Arbeit entsprechend ändern. Eine Verlagerung des Fokus auf die endgültigen Leitlinien wird den gegenteiligen Effekt haben. Schauen Sie sich den Prozess gerne selbst an. Sie werden feststellen, dass Änderungen in einem Teil möglicherweise nicht direkt mit Änderungen in einem anderen Teil übereinstimmen: Wenn ich die anfänglichen Schritte um {{oneUnit}} ändere, variieren die entsprechenden Anpassungen am Endergebnis um {{rateUnit}}. Das Ausmaß dieser Abweichungen hängt davon ab, wie die ursprünglichen Anweisungen von {{oneUnit}} geändert werden.\n\nIhr Ziel sollte es sein, die Verteilung des für jede Aufgabe erforderlichen Aufwands zu verstehen, indem Sie diese Änderungen untersuchen. Das Projekt hat insgesamt {{numDecisionsTotal}} Aufgaben. Eine davon wird nach dem Zufallsprinzip für die endgültige Bewertung ausgewählt. Dabei werden sowohl die anfänglichen als auch die endgültigen Anweisungen berücksichtigt. Jede Aufgabe kann bewertet werden.<b>Deshalb sollte man sich bei jeder Entscheidung gut überlegen, was man tut.<b>",
+  "forwords-text-3": "Was denken Sie über meine Arbeit?",
+  "forwords-text-4": "Bitte hier eintragen",
+  "forwords-text-5": "Es wird empfohlen, jeden Punkt als Punkt 1 bis 10 (bestes) zu betrachten",
+
+  
+  "forwords-example-label": "Beispiel-Entscheidung",
+  "forwords-maximum-date2-label": "Ich möchte Sie bitten, sich Gedanken darüber zu machen, ob ich und meine Arbeit zu Ihnen passen und Sie mit meiner Leistung zufrieden sind.",
+  "forwords-maximum-date2-additional-information-text": "control-maximum-date2-additional-information-text",
+  "forwords-maximum-date2-solution-information-text": "control-maximum-date2-solution-information-text",
+
+  "select-input-label" : "Wie würden Sie meine Arbeit beurteilen?",
+  "select-input-placeholder": "Bitte wählen Sie Ihre Option (es gibt keine richtige Option)",
+  "select-input-value-error-message": "Error",
+  "select-input-required-error-message": "Bitte wählen Sie Ihre Option (es gibt keine richtige Option)",
+  "select-input-first-option": "Perfekt",
+  "select-input-second-option": "Gut",
+  "select-input-third-option": "Schlecht",
+
+  "radio-input-label": "Bitte wählen Sie Ihre Option (es gibt keine richtige Option)",
+  "radio-input-first-option": "Perfekt",
+  "radio-input-second-option": "Gut",
+  "radio-input-third-option": "Schlecht",
+
+  "slider-label": "Wie würden Sie meine Arbeit beurteilen?",
+
+
+  "next": "Weiter",
+  "amount-of-money": "Geldbetrag",
+  "amount-of-points": "Punktbetrag",
+
+  "nextSteps-title-1": "Nächste Schritte Übersicht",
+  "nextSteps-text-1": "Sie haben {{totalSteps}} Schritte abgeschlossen. Der erste Optionswert beträgt {{firstOptionValue}} und der zweite Optionswert beträgt {{secondOptionValue}}. Der Betrag ist als {{amountLabel}} gekennzeichnet.",
+  "nextSteps-example-slider-label": "Beispielentscheidung",
+  "nextSteps-text-2": "Die gesamte Umrechnungsrate für die zweite Entscheidung beträgt {{conversionRateUnit}} und Sie sehen die Beträge entsprechend verteilt.",
+  "nextSteps-title-2": "Zusätzliche Überlegungen",
+  "nextSteps-text-3": "Stellen Sie sicher, dass Sie die endgültigen Entscheidungen sorgfältig überprüfen.",
+  "nextSteps-decision-slider-label": "Entscheidungsschieber: {{conversionRateUnit}} Umrechnungsrate",
+  "nextSteps-exchange-rate-label": "Wechselkurs: {{firstOptionValue}} links entspricht {{secondOptionValue}} rechts.",
+  "nextSteps-max-date-label": "Was ist der maximale Betrag, den Sie am letzten Datum erhalten können?",
+  "control-questions-title": "Kontrollfragen",
+  "control-max-date-label": "Was ist der maximale Auszahlungsbetrag? Verwenden Sie den Schieberegler, um die Antwort zu finden.",
+  
+
+  "instructions-title": "Anleitung",
+  "instructions-text-1": "In dieser Aufgabe sollen Sie eine Reihe von Entscheidungen treffen. In jeder Entscheidung geht es um die Aufteilung eines {{amount}}s zwischen zwei Zeitpunkten. Hier ist ein Beispiel:",
+  "instructions-example-label": "Beispiel-Entscheidung",
+  "instructions-text-2": "Links und rechts steht über dem Schieberegler jeweils ein Datum. Unter jedem Datum steht ein {{amount}}; würde diese Entscheidung ausgezahlt, würden Sie am früheren, linken Datum den linken Betrag <b>und</b> am späteren, rechten Datum den rechten Betrag erhalten. Bei der jetzigen Einstellung wären dies <b>{{leftValue}} {{date0}} und {{rightValue}} {{date1}}</b>.\n\n Wenn Sie den Schieberegler nach links schieben, steigt der linke Betrag und der rechte sinkt. Beim Schieben nach rechts ist es umgekehrt. Probieren Sie dies bitte einmal aus. Sie werden sehen, dass die Veränderung im Beispiel nicht eins zu eins ist: Wenn Sie den linken um {{oneUnit}} reduzieren, steigt der rechte Betrag um {{rateUnit}}. Um wie viel der rechte Betrag jeweils steigt oder fällt, unterscheidet sich von Entscheidung zu Entscheidung.\n\n  Ihre Aufgabe ist es ganz einfach, bei jeder Entscheidung mit dem Regler die von Ihnen bevorzugte Aufteilung einzustellen. Die Aufgabe umfasst insgesamt {{numDecisionsTotal}} Entscheidungen. Am Ende wird eine der Entscheidungen zufällig zur Auszahlung ausgewählt. Sie erhalten dann den ersten Betrag am ersten Datum und den zweiten Betrag am zweiten Datum. <b>Da jede der Entscheidungen ausgewählt werden kann, sollten Sie jede gewissenhaft treffen.</b>",
+
+  "control-title": "Anleitung (fortgesetzt)",
+  "control-text-1": "Es folgt ein letzter Hinweis. Bei den eigentlichen Entscheidungen, die gleich folgen, sind die Schieberegler anfangs noch nicht aktiviert. Das sieht dann so aus:",
+  "control-text-2": "Sie können den Regler aktivieren, indem Sie an eine beliebige Stelle klicken. Ab dann können Sie wie zuvor Änderungen vornehmen. Bitte probieren Sie dies am Beispiel oben aus.",
+
+  "control-questions": "Verständnisfragen",
+
+  "control-text-3": "Es folgen nun drei Verständnisfragen. Sobald Sie diese richtig beantwortet haben, folgen die eigentlichen Entscheidungen.",
+  "instructions-example-2-decision-label": "Beispiel-Entscheidung 2:",
+  "instructions-example-2-exchange-rate-label": "{{oneUnit}} links entspricht {{rateUnit2}} rechts.",
+
+  "control-maximum-date2-label": "Betrachten Sie die oben dargestellte Beispiel-Entscheidung 2. Was ist der maximale Betrag, den Sie  {{date2}} erhalten könnten? Nutzen Sie den Regler, um die Antwort zu finden.",
+  "control-maximum-date2-additional-information-text": "control-maximum-date2-additional-information-text",
+  "control-maximum-date2-solution-information-text": "control-maximum-date2-solution-information-text",
+
+  "control-maximum-date0-label": "Betrachten Sie weiter die Beispiel-Entscheidung 2. Was ist der maximale Betrag, den Sie {{date0}} erhalten könnten? Nutzen Sie den Regler, um die Antwort zu finden.",
+  "control-maximum-date0-additional-information-text": "control-maximum-date0-additional-information-text",
+  "control-maximum-date0-solution-information-text": "control-maximum-date0-solution-information-text",
+
+  "control-text-4": "Betrachten Sie zum Abschluss noch eine letzte Beispiel-Entscheidung:",
+
+  "instructions-example-3-decision-label": "Beispiel-Entscheidung 3:",
+  "instructions-example-3-exchange-rate-label": "{{oneUnit}} links entspricht {{rateUnit3}} rechts.",
+
+  "control-split-label": "Diese Frage bezieht sich auf Beispiel-Entscheidung 3. Nehmen Sie an, Sie möchten {{date1}} genau {{controlSplitTargetAmount}} erhalten. Wie hoch wäre dann die zweite Auszahlung {{date2}}? Nutzen Sie den Regler, um die Antwort zu finden.",
+  "control-split-additional-information-text": "control-split-additional-information-text",
+  "control-split-solution-information-text": "control-split-solution-information-text",
+
+  "decisions-title": "Entscheidungen {{decisionsFrom}}–{{decisionsTo}}",
+  "decision-label": "Entscheidung {{number}}:",
+  "exchange-rate-label": "{{oneUnit}} links entspricht {{rateUnit}} rechts",
+
+  "decisions-01-text-1": "Wir beginnen mit den Entscheidungen {{decisionsFrom}}–{{decisionsTo}} von insgesamt {{numDecisionsTotal}}. Die Entscheidungen auf dieser Seite betreffen alle die Zeitpunkte <b>{{relativeDate0}}</b> ({{longDate0}}) und <b>{{relativeDate1}}</b> ({{longDate1}}). Die beiden Tage sind in diesem Kalender dargestellt:",
+  "decisions-01-text-2": "Beachten Sie bitte: Diese {{numDecisionsPer}} Entscheidungen betreffen alle dieselben beiden Tage. Sie unterscheiden sich jedoch in dem Tauschverhältnis, also darin, um wie viel eine Verringerung der Auszahlung {{relativeDate0}} um {{oneUnit}} die Auszahlung {{relativeDate1}} erhöht. ",
+
+  "decisions-02-text-1": "Es folgen die Entscheidungen {{decisionsFrom}}–{{decisionsTo}} von insgesamt {{numDecisionsTotal}}. Die Entscheidungen auf dieser Seite betreffen alle die Zeitpunkte <b>{{relativeDate0}}</b> ({{longDate0}}) und <b>{{relativeDate2}}</b> ({{longDate2}}). Die beiden Tage sind in diesem Kalender dargestellt:",
+  "decisions-02-text-2": "Beachten Sie bitte: Diese {{numDecisionsPer}} Entscheidungen betreffen alle dieselben beiden Tage. Sie unterscheiden sich jedoch in dem Tauschverhältnis, also darin, um wie viel eine Verringerung der Auszahlung {{relativeDate0}} um {{oneUnit}} die Auszahlung {{relativeDate2}} erhöht.",
+
+  "decisions-12-text-1": "Es folgen zuletzt die Entscheidungen {{decisionsFrom}}–{{decisionsTo}}; danach ist die Aufgabe beendet. Die Entscheidungen auf dieser Seite betreffen alle die Zeitpunkte <b>{{relativeDate1}}</b> ({{longDate1}}) und <b>{{relativeDate2}}</b> ({{longDate2}}). Die beiden Tage sind in diesem Kalender dargestellt:",
+  "decisions-12-text-2": "Beachten Sie bitte: Diese {{numDecisionsPer}} Entscheidungen betreffen alle dieselben beiden Tage. Sie unterscheiden sich jedoch in dem Tauschverhältnis, also darin, um wie viel eine Verringerung der Auszahlung {{relativeDate1}} um {{oneUnit}} die Auszahlung {{relativeDate2}} erhöht.",
+
+  "end-title": "Ende der Aufgabe",
+  "end-text-1": "Vielen Dank! Diese Aufgabe ist damit beendet."
+}

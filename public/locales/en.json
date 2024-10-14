@@ -1,0 +1,97 @@
+{
+  "forwords-title-1": "That is my example",
+  "forwords-title-2": "That is my example(Continued)",
+
+  "forwords-text-1": "This is my example that was made to train my skills to do the work that I applied for, do not consider it as the whole of my work, because I was only following instructions from David Poensgen to recreate the whole banch of the work that was premade for me.",
+  "forwords-text-2": "There are two primary tasks that were set out for me, one at the beginning and another toward the end. Under each task, there is a specific guideline to follow: for example, if this task was completed according to instructions, you would see the result matching the initial template provided by David Poensgen <b>and</b> the adjustments made to align with the final outcome. At this point, the recreated work would reflect the instructions given at the start and the expected completion at the end.\n\n If I adjust my approach to the initial instructions, the resulting work will change accordingly. Shifting focus toward the final guidelines will have the opposite effect. Feel free to review the process yourself. You’ll notice that changes in one part may not directly correspond to changes in another: if I alter the initial steps by {{oneUnit}}, the corresponding adjustments to the final outcome will vary by {{rateUnit}}. The extent of these variations will depend on how the initial instructions are modified by {{oneUnit}}.\n\nYour objective should be to understand the distribution of efforts required for each task by examining these changes. The project includes a total of {{numDecisionsTotal}} tasks, one of which will be randomly selected for final evaluation. The evaluation will consider both the initial and final instructions. <b>As every task could be subject to evaluation, each decision should be made thoughtfully.</b>",
+  "forwords-text-3": "What do you think ybout my work?",
+  "forwords-text-4": "Please leave your Feedback here",
+  "forwords-text-5": "It is recommended to consider each point as point 1 to 10 (best)",
+
+  "forwords-example-label": "Example decision",
+  "forwords-maximum-date2-label": "Please consider to make the right choice about me and my work an rate it",
+  "forwords-maximum-date2-additional-information-text": "To make the payment on the right date as high as possible, move the slider all the way to the right. Then simply read off the value.",
+  "forwords-maximum-date2-solution-information-text": "To make the payment on the right date as high as possible, move the slider all the way to the right. Then simply read off the value. The correct answer is {{controlMaximum2Solution}}.",
+  
+  "select-input-label" : "How would you consider my work?",
+  "select-input-placeholder": "Please select your option(there is no right option)",
+  "select-input-value-error-message": "Error",
+  "select-input-required-error-message": "Please select your option(there is no right option)",
+  "select-input-first-option": "Perfect",
+  "select-input-second-option": "Good",
+  "select-input-third-option": "Bad",
+
+
+  "radio-input-label": "Please select your option(there is no right option)",
+  "radio-input-first-option": "Perfect",
+  "radio-input-second-option": "Good",
+  "radio-input-third-option": "Bad",
+
+  "slider-label": "How would you consider my work?",
+
+
+  "next": "Next",
+  "amount-of-money": "amount of money",
+  "amount-of-points": "amount of points",
+
+  "nextSteps-title-1": "Next Steps Overview",
+  "nextSteps-text-1": "You have completed {{totalSteps}} steps. The first option value is {{firstOptionValue}} and the second option value is {{secondOptionValue}}. The amount is labeled as {{amountLabel}}.",
+  "nextSteps-example-slider-label": "Example Decision",
+  "nextSteps-text-2": "The total conversion rate for the second decision is {{conversionRateUnit}} and you will see the amounts distributed accordingly.",
+  "nextSteps-title-2": "Additional Considerations",
+  "nextSteps-text-3": "Make sure to review the final decisions carefully.",
+  "nextSteps-decision-slider-label": "Decision Slider: {{conversionRateUnit}} conversion rate",
+  "nextSteps-exchange-rate-label": "Exchange Rate: {{firstOptionValue}} left corresponds to {{secondOptionValue}} right.",
+  "nextSteps-max-date-label": "What is the maximum payout you can receive on the final date?",
+  "control-questions-title": "Control Questions",
+  "control-max-date-label": "What is the maximum date payout? Use the slider to find out.",
+  
+
+  "instructions-title": "Instructions",
+  "instructions-text-1": "In this task, we ask you to make a series of decisions. For each decision, you will split an {{amount}} between two points in time. Here is an example:",
+  "instructions-example-label": "Example decision",
+  "instructions-text-2": "There are two dates above the slider, on the left and on the right. Under each date, you see an {{amount}}; if this decision were paid, you would receive the left amount on the earlier, left date <b>and</b> the right amount on the later, right date. Given the current slider position, this would be <b>{{leftValue}} {{date0}} and {{rightValue}} {{date1}}</b>.\n\n If you move the slider to the left, the left amount increases and the right decreases. Sliding to the right does the opposite. Please try this out yourself. You will see that the changes in the example are not one-to-one: If you reduce the left amount by {{oneUnit}}, the right amount increases by {{rateUnit}}. It will differ from decision to decision by how much the right amount increases and decreases if you change the left one by {{oneUnit}}.\n\n  Your goal should simply be to select your most preferred distribution for each decision by using the slider. The task includes a total of {{numDecisionsTotal}} decisions. One of these will be randomly selected for payment. You will then receive the left amount on the left date, and the right amount on the right date. <b>Because every decision can be selected for payment, you should always choose carefully.</b>",
+
+  "control-title": "Instructions (continued)",
+  "control-text-1": "One final note: For the actual upcoming decisions, the sliders are initially not activated. This looks as follows:",
+  "control-text-2": "You can activate the slider by simply clicking on it somewhere. From then on, you can make changes as before. Please try this in the example above.",
+
+  "control-questions": "Comprehension questions",
+
+  "control-text-3": "We will now ask you to answer the following comprehension questions. Once you have done so correctly, the actual decisions will follow.",
+  "instructions-example-2-decision-label": "Example decision 2:",
+  "instructions-example-2-exchange-rate-label": "{{oneUnit}} on the left corresponds to {{rateUnit2}} on the right.",
+
+  "control-maximum-date2-label": "Please consider the example decision 2 shown above. What is the maximum amount you could receive {{date2}}? Use the slider to find the answer.",
+  "control-maximum-date2-additional-information-text": "To make the payment on the right date as high as possible, move the slider all the way to the right. Then simply read off the value.",
+  "control-maximum-date2-solution-information-text": "To make the payment on the right date as high as possible, move the slider all the way to the right. Then simply read off the value. The correct answer is {{controlMaximum2Solution}}.",
+
+  "control-maximum-date0-label": "This question again refers to example decision 2. What is the maximum amount you could receive {{date0}}? Use the slider to find the answer.",
+  "control-maximum-date0-additional-information-text": "To make the payment on the left date as high as possible, move the slider all the way to the left. Then simply read off the value.",
+  "control-maximum-date0-solution-information-text": "To make the payment on the left date as high as possible, move the slider all the way to the left. Then simply read off the value. The correct answer is {{controlMaximum0Solution}}.",
+
+  "control-text-4": "Finally, please consider this final example decision:",
+
+  "instructions-example-3-decision-label": "Example decision 3:",
+  "instructions-example-3-exchange-rate-label": "{{oneUnit}} on the left corresponds to {{rateUnit3}} on the right.",
+
+  "control-split-label": "This question refers to example decision 3. Assume you want to receive exactly {{controlSplitTargetAmount}} {{date1}}. What would then be your second payment, which you will receive {{date2}}? Use the slider to find the answer.",
+  "control-split-additional-information-text": "Move the slider around until the left amount is exactly {{controlSplitTargetAmount}}. Then read off the amount on the right.",
+  "control-split-solution-information-text": "Move the slider around until the left amount is exactly {{controlSplitTargetAmount}}. Then read off the amount on the right. The correct answer is {{controlSplitSolution}}",
+
+  "decisions-title": "Decisions {{decisionsFrom}}–{{decisionsTo}}",
+  "decision-label": "Decision {{number}}:",
+  "exchange-rate-label": "{{oneUnit}} on the left corresponds to {{rateUnit}} on the right",
+
+  "decisions-01-text-1": "We begin with decisions {{decisionsFrom}}–{{decisionsTo}} of {{numDecisionsTotal}}. All decisions on this page concern the dates <b>{{relativeDate0}}</b> ({{longDate0}}) and <b>{{relativeDate1}}</b> ({{longDate1}}). Both days are displayed in this calendar:",
+  "decisions-01-text-2": "Please note: These {{numDecisionsPer}} all concern the same two dates. However, they differ in the exchange rate, meaning by how much reducing the payment {{relativeDate0}} by {{oneUnit}} increases the payment {{relativeDate1}}.",
+
+  "decisions-02-text-1": "Up next are decisions {{decisionsFrom}}–{{decisionsTo}} of {{numDecisionsTotal}}. All decisions on this page concern the dates <b>{{relativeDate0}}</b> ({{longDate0}}) and <b>{{relativeDate2}}</b> ({{longDate2}}). Both days are displayed in this calendar:",
+  "decisions-02-text-2": "Please note: These {{numDecisionsPer}} all concern the same two dates. However, they differ in the exchange rate, meaning by how much reducing the payment {{relativeDate0}} by {{oneUnit}} increases the payment {{relativeDate2}}.",
+
+  "decisions-12-text-1": "The final decisions {{decisionsFrom}}–{{decisionsTo}} are up next; this concludes the task. All decisions on this page concern the dates <b>{{relativeDate1}}</b> ({{longDate1}}) and <b>{{relativeDate2}}</b> ({{longDate2}}). Both days are displayed in this calendar:",
+  "decisions-12-text-2": "Please note: These {{numDecisionsPer}} all concern the same two dates. However, they differ in the exchange rate, meaning by how much reducing the payment {{relativeDate1}} by {{oneUnit}} increases the payment {{relativeDate2}}.",
+
+  "end-title": "End of the task",
+  "end-text-1": "Thank you! This concludes the task."
+}

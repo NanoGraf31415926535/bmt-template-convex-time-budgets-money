@@ -1,0 +1,7 @@
+{
+  "default-value-error-message-minmax": "Die Zahl muss zwischen {{min}} und {{max}} liegen.",
+  "default-value-error-message-min": "Die Zahl muss mindestens {{min}} betragen.",
+  "default-value-error-message-max": "Die Zahl darf höchstens {{max}} betragen.",
+  "default-required-error-message": "Bitte beantworten Sie diese Frage.",
+  "default-placeholder": "Ihre Antwort."
+}

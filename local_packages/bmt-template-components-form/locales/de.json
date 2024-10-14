@@ -1,0 +1,7 @@
+{
+  "submit": "Absenden",
+  "default-solution-modal-title": "Lösungen",
+  "default-solution-modal-text_one": "Sie haben mindestens eine Frage falsch beantwortet. Die Antworten werden nun direkt unter diesen Fragen angezeigt. Bitte lesen Sie auch die Erklärungen dort, um sicherzugehen, die Aufgabe richtig zu verstehen.",
+  "default-solution-modal-text_other": "Sie haben mindestens eine Frage {{count}} mal falsch beantwortet. Die Antworten werden nun direkt unter diesen Fragen angezeigt. Bitte lesen Sie auch die Erklärungen dort, um sicherzugehen, die Aufgabe richtig zu verstehen.",
+  "default-solution-modal-button": "OK"
+}

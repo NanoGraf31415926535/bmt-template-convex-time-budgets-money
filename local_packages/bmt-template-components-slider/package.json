@@ -1,0 +1,14 @@
+{
+  "name": "bmt-template-components-slider",
+  "version": "1.0.0",
+  "description": "BMT Template Component: Slider",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

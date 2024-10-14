@@ -1,0 +1,7 @@
+{
+  "submit": "Submit",
+  "default-solution-modal-title": "Solutions",
+  "default-solution-modal-text_one": "You have answered at least one of the questions incorrectly. The solutions to those questions are now displayed right below them. Please also read the explanations to make sure you understand the task.",
+  "default-solution-modal-text_other": "You have answered at least one of the questions incorrectly {{count}} times. The solutions to those questions are now displayed right below them. Please also read the explanations to make sure you understand the task.",
+  "default-solution-modal-button": "OK"
+}

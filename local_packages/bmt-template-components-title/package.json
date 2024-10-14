@@ -1,0 +1,14 @@
+{
+  "name": "bmt-template-components-title",
+  "version": "1.0.0",
+  "description": "BMT Template Component: Title",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

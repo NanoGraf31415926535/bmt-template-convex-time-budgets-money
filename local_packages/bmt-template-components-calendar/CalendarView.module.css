@@ -1,0 +1,33 @@
+.startDate {
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	background: #1abc9c;
+	 /*background: linear-gradient(90deg, #1abc9c 60%, #1abc9c62); */
+	color: white !important;
+}
+
+.endDate {
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	background: #1abc9c;
+	/* background: linear-gradient(90deg, #1abc9c62 10%, #1abc9c 40%); */
+	color: white !important;
+}
+
+.intermediateDate {
+	background: #1eba9b83;
+	color: white !important;
+}
+
+.todayDate {
+	color: white !important;
+	background: rgba(255, 0, 0, 0.71) !important;
+	border-radius: 5px;
+}
+
+.today-date.start-date {
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-top-right-radius: 0%;
+	border-bottom-right-radius: 0%;
+}

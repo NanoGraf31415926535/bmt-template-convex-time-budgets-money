@@ -1,0 +1,36 @@
+{
+  "forwords": {
+    "path": "/P0_forwords",
+    "file": "P0_forwords.jsx"
+  },
+  "nextsteps": {
+    "path": "/P01_nextSteps",
+    "file": "P01_nextSteps.jsx"
+  },
+  "instructions": {
+    "path": "/P1_Instructions",
+    "file": "P1_Instructions.jsx",
+    "randomnessCategory": 1
+  },
+  "control": {
+    "path": "/P2_Control",
+    "file": "P2_Control.jsx",
+    "functions": ["controlMaximum0", "controlMaximum2", "controlSplit"]
+  },
+  "P3_Decisions01": {
+    "path": "/P3_Decisions01",
+    "file": "P3_Decisions01.jsx"
+  },
+  "P4_Decisions02": {
+    "path": "/P4_Decisions02",
+    "file": "P4_Decisions02.jsx"
+  },
+  "P5_Decisions12": {
+    "path": "/P5_Decisions12",
+    "file": "P5_Decisions12.jsx"
+  },
+  "P6_End": {
+    "path": "/P6_End",
+    "file": "P6_End.jsx"
+  }
+}

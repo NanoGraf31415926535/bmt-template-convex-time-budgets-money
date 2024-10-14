@@ -1,0 +1,7 @@
+{
+  "backend": {
+    "loadPath": "/locales/{{lng}}.json"
+  },
+  "debug": false,
+  "fallbackLng": "en"
+}
